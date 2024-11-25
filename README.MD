@@ -22,7 +22,7 @@ Graph neural networks (GNNs) are efficient techniques for learning graph represe
 
 ![alt text](image-1.png)
 
-## Message Passing Paradigm of the GNNs.
+## Message Passing Paradigm of the GNNs
 
 ![alt text](image-2.png)
 
