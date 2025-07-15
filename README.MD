@@ -1,4 +1,4 @@
-# Extracting Higher-Order Topological Semantic via Motif-based Deep Graph Neural Networks
+# Extracting Higher-Order Topological Semantic via Motif-based Deep Graph Neural Networks (IEEE TCSS)
 
 ## Overview
 
@@ -44,10 +44,13 @@ If you use this code in your research, please cite our paper:
 
 ```
     @article{zhang2024extracting,
-    title={Extracting Higher Order Topological Semantic via Motif-Based Deep Graph Neural Networks},
-    author={Zhang, Ke-Jia and Ding, Xiao and Xiang, Bing-Bing and Zhang, Hai-Feng and Bao, Zhong-Kui},
-    journal={IEEE Transactions on Computational Social Systems},
-    year={2024},
-    publisher={IEEE}
+        title={Extracting Higher Order Topological Semantic via Motif-Based Deep Graph Neural Networks},
+        author={Zhang, Ke-Jia and Ding, Xiao and Xiang, Bing-Bing and Zhang, Hai-Feng and Bao, Zhong-Kui},
+        journal={IEEE Transactions on Computational Social Systems},
+        volume={11},
+        number={4},
+        pages={5444-5453},
+        year={2024},
+        doi={10.1109/TCSS.2024.3372775}
     }
 ```
